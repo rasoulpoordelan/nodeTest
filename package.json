@@ -1,0 +1,23 @@
+{
+  "name": "nodeTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasoulpoordelan/nodeTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasoulpoordelan/nodeTest/issues"
+  },
+  "homepage": "https://github.com/rasoulpoordelan/nodeTest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
